@@ -159,9 +159,9 @@ Password: admin123
 - Year: 2025
 
 **Group Members:**
-1. Member Name 1 - ID: [KIC-DCSAI-251-028]
-2. Member Name 2 - ID: [KIC-DCSAI-251-029]
-3. Member Name 3 - ID: [KIC-DCSAI-251-048]
+1. Chethani Thakshila  - ID: [KIC-DCSAI-251-048]
+2. Abhimani Konara - ID: [KIC-DCSAI-251-028]
+3. Isurika Bandara  - ID: [KIC-DCSAI-251-029]
 
 
 ## 🐛 Known Issues & Future Improvements
