@@ -183,13 +183,13 @@ Password: admin123
 
 This project is created for educational purposes.
 
-## 📧 Contact
+## 📧 Contact : 0741420954
 
 For queries or support:
-- Email: [your-email@example.com]
-- Project Lead: [Name]
+- Email: [chethanithakshila36@gmail.com]
+- Project Lead: [Chethani Thakshila]
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Thanks to NIBM-KIC
 - Thanks to our module lecturer
