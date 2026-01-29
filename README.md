@@ -160,8 +160,8 @@ Password: admin123
 
 **Group Members:**
 1. Member Name 1 - ID: [KIC-DCSAI-251-028]
-2. Member Name 2 - ID: [KIC-DCSAI-251-028]
-3. Member Name 3 - ID: [KIC-DCSAI-251-028]
+2. Member Name 2 - ID: [KIC-DCSAI-251-029]
+3. Member Name 3 - ID: [KIC-DCSAI-251-048]
 
 
 ## 🐛 Known Issues & Future Improvements
